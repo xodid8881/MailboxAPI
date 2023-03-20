@@ -1,0 +1,5 @@
+name: MailboxAPI
+author: HWABAEG
+main: MailboxAPI\MailboxAPI
+version: B1
+api: [4.0.0]
